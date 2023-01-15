@@ -1,12 +1,17 @@
-## Hi there 
-<!--
-**AntonioCatxioca2/AntonioCatxioca2** is a _ especial_ repository because it  he are  soma idaes  to gate you started:
--I´m currently working on...
-I´m currantly learning
--I´m looking to collaborate on...
-- I´m looking for hilp with...
-- Ask me about...
--How to reach me...
-- Pronous...
-- Fun fact...
---->
+# Olá meu nome é Antonio Catxioca
+## Seja bem-vindo ao meu perfil Github
+            <i class="devicon-adonisjs-original colori"></i>
+ -Atualemente estou a estudar na faculdade de engenh 
+ -t Aualmente estou aprendendo programação na linguange java
+ 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+-Atualemente estou a procurar colaboradors em programação
+-Atualemente estou  procurando ajuda em programação e base de dados
+-Pergunta me sobre
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
+## Contactos
+<div>
+< a houtub.=r outuyu.w.comb.com/Antoniocatxiocxa
+   h ttps://ww
